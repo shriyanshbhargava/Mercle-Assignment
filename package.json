@@ -5,7 +5,7 @@
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
-    "highcharts": "11.1.0",
+    "highcharts": "^11.1.0",
     "highcharts-react-official": "3.2.0",
     "loader-utils": "3.2.1",
     "react": "18.2.0",
